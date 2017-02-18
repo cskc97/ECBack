@@ -9,10 +9,19 @@
 
 require_once("populateData.php");
 
+
+
+
 $mainArray;
 addCollege("NYU",1,$mainArray);
 
+if(md5($_GET["name"])=="25072b52beece80c4251b5125db3ef9f") {
 
-echo json_encode($mainArray);
+    echo json_encode($mainArray);
+}
+else
+{
+    echo "LMAO BRO PLZ";
+}
 
 ?>
