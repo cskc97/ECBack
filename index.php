@@ -13,7 +13,8 @@ require_once("populateData.php");
 
 
 $mainArray;
-addCollege("NYU",1,$mainArray);
+$mainArray["testing"] = "true";
+//addCollege("NYU",1,$mainArray);
 
 if(md5($_GET["name"])=="25072b52beece80c4251b5125db3ef9f") {
 

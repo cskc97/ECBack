@@ -1,0 +1,26 @@
+Ranking Name
+1.	IIT madras
+2.	IIT Bombay
+3.	IIT Kharagpur
+4.	IIT Delhi
+5.	IIT Kanpur
+6.	IIT Roorkee
+7.	IIT Hyderabad
+8.	IIT Gandhinagar
+9.	IIT Ropar
+10.	IIT Patna
+11.	IIT Guwahati
+12.	NIT Trichy
+13.	VIT
+14.	IIT-BHU Varanasi 
+15.	Sardar Vallabhai National Institute of Technology(SVNIT)
+16.	IIT Indore
+17.	BIT Mesra
+18.	Visvesvaraya national institute of technology(VNIT)
+19.	NIT Rourkela
+20.	IIT Mandi
+21.	 Indian Institute of  Engineering Science and Technology (IIEST)
+22.	College of Engineering Pune (CoEP)
+23.	National Institute of Technology, NITK, Surathkal
+24.	Motilal Nehru National Institute of Technology (MNNIT)
+25.	PSG College of Technology (PSGTECH)

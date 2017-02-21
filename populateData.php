@@ -7,10 +7,57 @@
  */
 
 
-function addCollege($collegeName,$ranking,&$array)
+function addCollegeRanking($collegeName,$ranking,&$array) //passing by reference
 {
-    $array[]["college_name"] = $collegeName;
-    $array[]["ranking"] = $ranking;
+
+    $subArray["college_name"]=$collegeName;
+    $subArray["ranking"]=$ranking;
+    $array[] = $subArray;
+
+
+
+
+}
+
+function parseTop25()
+{
+    $returnArray = array();
+    $fileName = "top25colleges.txt";
+    $fileConnection = fopen($fileName,"r");
+    if( $fileConnection == false ) {
+        echo ( "Error in opening file" );
+        exit();
+    }
+    $junkline = fgets($fileConnection);
+    while(!feof($fileConnection))
+    {
+        $realLine = fgets($fileConnection);
+      //  echo $realLine."<br>";
+
+        $mainArray = explode('.',$realLine);
+
+     //   echo print_r($mainArray);
+
+        $subArray["ranking"]=$mainArray[0];
+        $subArray["college"]=trim($mainArray[1]);
+        $returnArray[] = $subArray;
+
+
+
+    }
+
+    fclose($fileConnection);
+
+    if($returnArray!=NULl)
+    {
+        return $returnArray;
+    }
+    else
+    {
+        return null;
+    }
+
+
 
 
 
