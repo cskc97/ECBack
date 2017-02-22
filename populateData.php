@@ -40,7 +40,8 @@ function parseTop25()
 
         $subArray["ranking"]=$mainArray[0];
         $subArray["college"]=trim($mainArray[1]);
-        $subArray["url"]=addslashes(trim($mainArray[2]));
+        $subArray["state"]=trim($mainArray[2]);
+        $subArray["url"]=addslashes(trim($mainArray[3]));
         $returnArray[] = $subArray;
 
 

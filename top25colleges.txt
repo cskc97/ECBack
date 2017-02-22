@@ -1,26 +1,26 @@
 Ranking Name
-1,	IIT madras Tamil Nadu, www.iitm.ac.in
-2,	IIT Bombay. Maharashtra, www.iitb.ac.in
-3,	IIT Kharagpur. West Bengal, iitkgp.ac.in
-4,	IIT Delhi. Delhi, www.iitd.ac.in
-5,	IIT Kanpur. Uttar Pradesh, iitk.ac.in
+1,	IIT madras, Tamil Nadu, www.iitm.ac.in
+2,	IIT Bombay, Maharashtra, www.iitb.ac.in
+3,	IIT Kharagpur, West Bengal, iitkgp.ac.in
+4,	IIT Delhi, Delhi, www.iitd.ac.in
+5,	IIT Kanpur, Uttar Pradesh, iitk.ac.in
 6,	SRM University, Tamil Nadu, www.srmuniv.ac.in
-7,	IIT Roorkee. Uttarakhand, www.iitr.ac.in
-8,	IIT Hyderabad. Telangana, www.iith.ac.in
-9,	IIT Gandhinagar. Gujarat, www.iitgn.ac.in
-10,	IIT Ropar. Punjab, www.iitrpr.ac.in
-11,	IIT Patna. Bihar, iitp.ac.in
-12,	IIT Guwahati. Assam, www.iitg.ac.in
-13,	NIT Trichy. Tamil Nadu, www.nitt.edu
-14,	VIT. Tamil Nadu, www.vit.ac.in
-15,	IIT-BHU Varanasi. Uttar Pradesh, iitbhu.ac.in
-16,	Sardar Vallabhai National Institute of Technology(SVNIT). Gujarat, www.svnit.ac.in
-17,	IIT Indore. Madhya Pradesh, iiti.ac.in
-18,	BIT Mesra. Jharkhand, www.bitmesra.ac.in
-19,	Visvesvaraya national institute of technology(VNIT). Maharashtra, www.vnit.ac.in
-20,	NIT Rourkela. Odisha, www.nitrkl.ac.in
-21,	IIT Mandi. Himachal Pradesh, www.iitmandi.ac.in
-22,	Indian Institute of  Engineering Science and Technology (IIEST). West Bengal, www.becs.ac.in
-23,	National Institute of Technology NITK Surathkal Karnataka, www.nitk.ac.in
-24,	Motilal Nehru National Institute of Technology (MNNIT), www.mnnit.ac.in
-25,	PSG College of Technology (PSGTECH) Tamil Nadu, www.psgtech.edu
+7,	IIT Roorkee, Uttarakhand, www.iitr.ac.in
+8,	IIT Hyderabad, Telangana, www.iith.ac.in
+9,	IIT Gandhinagar, Gujarat, www.iitgn.ac.in
+10,	IIT Ropar, Punjab, www.iitrpr.ac.in
+11,	IIT Patna, Bihar, iitp.ac.in
+12,	IIT Guwahati, Assam, www.iitg.ac.in
+13,	NIT Trichy, Tamil Nadu, www.nitt.edu
+14,	VIT, Tamil Nadu, www.vit.ac.in
+15,	IIT-BHU Varanasi, Uttar Pradesh, iitbhu.ac.in
+16,	Sardar Vallabhai National Institute of Technology(SVNIT), Gujarat, www.svnit.ac.in
+17,	IIT Indore, Madhya Pradesh, iiti.ac.in
+18,	BIT Mesra, Jharkhand, www.bitmesra.ac.in
+19,	Visvesvaraya national institute of technology(VNIT), Maharashtra, www.vnit.ac.in
+20,	NIT Rourkela, Odisha, www.nitrkl.ac.in
+21,	IIT Mandi, Himachal Pradesh, www.iitmandi.ac.in
+22,	Indian Institute of  Engineering Science and Technology (IIEST), West Bengal, www.becs.ac.in
+23,	National Institute of Technology NITK Surathkal, Karnataka, www.nitk.ac.in
+24,	Motilal Nehru National Institute of Technology (MNNIT), Rajasthan, www.mnnit.ac.in
+25,	PSG College of Technology (PSGTECH), Tamil Nadu, www.psgtech.edu
