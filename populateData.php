@@ -32,14 +32,15 @@ function parseTop25()
     while(!feof($fileConnection))
     {
         $realLine = fgets($fileConnection);
-      //  echo $realLine."<br>";
+      // echo $realLine."<br>";
 
-        $mainArray = explode('.',$realLine);
+        $mainArray = explode(',',$realLine);
 
-     //   echo print_r($mainArray);
+     //  echo print_r($mainArray);
 
         $subArray["ranking"]=$mainArray[0];
         $subArray["college"]=trim($mainArray[1]);
+        $subArray["url"]=addslashes(trim($mainArray[2]));
         $returnArray[] = $subArray;
 
 
